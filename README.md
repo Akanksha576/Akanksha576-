@@ -5,7 +5,7 @@
 
 🚀 Featured Projects
 - AWS Scalable Architecture — Terraform + CloudFormation + Lambda  
-  Repo: https://github.com/Akanksha576/aws-scalable-architecture-project
+  Repo: https://github.com/Akanksha576/IS698files
 - Database Project (Python + SQL) 
   Repo:(https://github.com/Akanksha576/SQL-Database-Project)
 
