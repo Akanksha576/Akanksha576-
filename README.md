@@ -1,15 +1,15 @@
  Hi, I'm Akanksha!
 
-🎓 M.S. in Information Systems @ UMBC  
-☁️ AWS & Data | Python | Terraform | CloudFormation
+ M.S. in Information Systems @ UMBC  
+AWS & Data | Python | Terraform | CloudFormation
 
-🚀 Featured Projects
+ Featured Projects
 - AWS Scalable Architecture — Terraform + CloudFormation + Lambda  
   Repo: https://github.com/Akanksha576/IS698files
 - Database Project (Python + SQL) 
   Repo:(https://github.com/Akanksha576/SQL-Database-Project)
 
- 🧠 Skills
+ Skills
 Languages: Python, SQL, R  
 Cloud: AWS (EC2, RDS, Lambda, S3), Terraform, CloudFormation  
 Data: Pandas, NumPy, Power BI, Tableau
